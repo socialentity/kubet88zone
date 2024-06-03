@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+KUBET88 - Nhà Cái Uy Tín Và Không Bị Chặn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`KUBET88 <https://kubet88.zone/>`_ nhà cái uy tín và không bị chặn, mang đến cho bạn trải nghiệm giải trí trực tuyến đỉnh cao. KUBET88 cung cấp một loạt các sản phẩm giải trí trực tuyến bao gồm thể thao, casino và xổ số. KUBET88 mang đến cho người chơi các mẹo chơi và hướng dẫn từ chuyên gia để tăng tỷ lệ thắng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+KUBET88 không chỉ mang đến cho bạn những sản phẩm và dịch vụ chất lượng mà còn cung cấp những thông tin hữu ích và khuyến mãi cực kỳ hấp dẫn để nâng cao trải nghiệm của bạn. Hãy tham gia KUBET88 ngay hôm nay để khám phá thế giới giải trí không giới hạn!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 45/43 Đồng Xoài, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0976073286. 
 
-.. toctree::
+Email: info@kubet88.zone. 
 
-   usage
-   api
+Website: `https://kubet88.zone/ <https://kubet88.zone/>`_
+
+#kubet88 #linkkubet88 #trangchukubet88 #dangkykubet88 #nhacaikubet88
